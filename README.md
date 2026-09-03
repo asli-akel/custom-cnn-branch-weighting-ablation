@@ -1,4 +1,4 @@
-# Adaptive Branch Weighting in Convolutional Neural Networks
+# Custom CNN for Image Classification & Branch-Weighting Ablation (CIFAR-10, Fashion-MNIST)
 
 This project explores how convolutional branches can be combined within a CNN. Part A develops the model on CIFAR-10. Part B then keeps the main architecture fixed and compares four branch-weighting strategies on FashionMNIST.
 
